@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.authors = ["Sanveer Singh"]
   spec.email = ["s.sanveerbenipal@gmail.com"]
 
-  spec.summary = "TODO: Write a short summary, because RubyGems requires one."
-  spec.description = "TODO: Write a longer description or delete this line."
-  spec.homepage = "TODO: Put your gem's website or public repo URL here."
+  spec.summary = "The StringEnhancer gem extens the Ruby string cclass with additional methods for formatting, manipulation, and querying, making  string handling in Ruby even more powerful."
+  spec.description = "StringEnhancer"
+  spec.homepage = "https://github.com/SanveerBenipal/packaging-ruby-code"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 3.2.0"
 
